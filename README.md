@@ -20,10 +20,19 @@
 
 ---
 
+<div>
 I am a full-stack software engineer with a focus on JavaScript, React, Redux, Python and Flask.
+</div>
+<div>
 When I'm not coding I am spoiling my girlfriend's dog, watching sports or netflix, or playing some video games.
+</div>
+<div>
 I enjoy snowboarding, (attempting to) catch some waves, and golf. 
+</div>
 
+---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YutaroHirayama&theme=dark&border_radius=10)](https://git.io/streak-stats)
 
 <!--
 **YutaroHirayama/YutaroHirayama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
