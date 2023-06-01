@@ -31,9 +31,9 @@ I enjoy snowboarding, (attempting to) catch some waves, and golf.
 </div>
 
 ---
-
+<div align='center'>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YutaroHirayama&theme=dark&border_radius=10)](https://git.io/streak-stats)
-
+</div>
 <!--
 **YutaroHirayama/YutaroHirayama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
