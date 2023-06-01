@@ -20,7 +20,7 @@
 
 ---
 
-<div>
+<div align='center'>
 I am a full-stack software engineer with a focus on JavaScript, React, Redux, Python and Flask.
 </div>
 <div>
