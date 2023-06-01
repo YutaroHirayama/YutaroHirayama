@@ -22,11 +22,9 @@
 
 <div align='center'>
 I am a full-stack software engineer with a focus on JavaScript, React, Redux, Python and Flask.
-</div>
-<div>
+<br>
 When I'm not coding I am spoiling my girlfriend's dog, watching sports or netflix, or playing some video games.
-</div>
-<div>
+<br>
 I enjoy snowboarding, (attempting to) catch some waves, and golf. 
 </div>
 
