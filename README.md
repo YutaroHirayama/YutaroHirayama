@@ -28,6 +28,10 @@ When I'm not coding I am spoiling my girlfriend's dog, watching sports or netfli
 I enjoy snowboarding, (attempting to) catch some waves, and golf. 
 </div>
 
+<div align='center'>
+You can reach out to me at yutarohirayama@gmail.com!
+</div>
+
 ---
 <div align='center'>
   <img src='http://github-readme-streak-stats.herokuapp.com?user=YutaroHirayama&theme=dark&border_radius=10'/>
